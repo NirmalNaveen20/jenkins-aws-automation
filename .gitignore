@@ -1,0 +1,54 @@
+# Ignore PEM files
+*.pem
+
+# Ignore node_modules (for Node.js projects)
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore dependency directories
+bower_components/
+
+# Ignore build directories
+/dist/
+/build/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore Java compiled files
+*.class
+
+# Ignore IDE files (VSCode, IntelliJ, etc.)
+.vscode/
+.idea/
+
+# Ignore Docker related files
+docker-compose.override.yml
+Dockerfile*
+
+# Ignore npm debug files
+npm-debug.log*
+
+# Ignore yarn lock file
+yarn.lock
+
+# Ignore compiled binaries and executables
+*.exe
+*.out
+*.app
+
+# Ignore temporary files
+*.swp
+*.bak
+*.tmp
