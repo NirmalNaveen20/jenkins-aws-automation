@@ -1,4 +1,4 @@
-# Jenkins Installation on AWS EC2 using Terraform 🚀
+# Jenkins Installation on AWS EC2 using Terraform
 
 ## Project Overview
 This project automates the deployment of a Jenkins server on AWS EC2 using Terraform. It covers the creation of an EC2 instance, bootstrapping Jenkins installation, setting up security groups, and creating an S3 bucket for Jenkins artifacts storage. The goal is to simplify and standardize Jenkins deployment for CI/CD workflows. 🛠️
